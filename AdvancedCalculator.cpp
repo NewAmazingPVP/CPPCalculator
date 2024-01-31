@@ -5,9 +5,9 @@
 #include "AdvancedCalculator.h"
 
 AdvancedCalculator::AdvancedCalculator(int val) {
-    myMap["Alice"] = 25;
-    myMap["Bob"] = 30;
-    myMap["Charlie"] = 22;
+    options["Squareroot"] = 1;
+    options["Sine"] = 2;
+    options["Cosine"] = 3;
     value = val;
 }
 
