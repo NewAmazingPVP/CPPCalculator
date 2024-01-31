@@ -1,0 +1,12 @@
+# ninja log v5
+2	356	7283562824754036	CMakeFiles/CPPCalculator.dir/main.cpp.obj	9f1c9f64dee3a735
+357	452	7283562825692839	CPPCalculator.exe	e946746658606eb9
+7	61	7283588813396733	CMakeFiles/CPPCalculator.dir/AdvancedCalculator.cpp.obj	14d29ad30e9c162f
+2	450	7283588817276727	CMakeFiles/CPPCalculator.dir/main.cpp.obj	9f1c9f64dee3a735
+450	544	7283588818206724	CPPCalculator.exe	991e3a6582d7013b
+2	458	7283589162242534	CMakeFiles/CPPCalculator.dir/main.cpp.obj	9f1c9f64dee3a735
+458	557	7283589163232530	CPPCalculator.exe	991e3a6582d7013b
+2	490	7283590620651797	CMakeFiles/CPPCalculator.dir/main.cpp.obj	9f1c9f64dee3a735
+491	583	7283590621561787	CPPCalculator.exe	991e3a6582d7013b
+2	447	7283591180596020	CMakeFiles/CPPCalculator.dir/main.cpp.obj	9f1c9f64dee3a735
+447	534	7283591181456010	CPPCalculator.exe	991e3a6582d7013b
