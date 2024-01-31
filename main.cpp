@@ -47,8 +47,17 @@ int main() {
     auto end_time = high_resolution_clock::now();
     auto duration = duration_cast<nanoseconds>(end_time - start_time);
     cout << "\nTotal time: " << duration.count() << " nanoseconds";
-    unique_ptr<AdvancedCalculator> e(new AdvancedCalculator(0));
-    cout << "\n" << (e->isPrime() ? "true" : "false");
 
+    //cout << "\n" << (e->isPrime() ? "true" : "false");
+    cout << "Select what advance operation you want to do:"
+            "\n1. Squareroot"
+            "\n2. Sine"
+            "\n3. Cosine"
+            "\n4. isPrime"
+            "\n5. Facotrial"
+            "\n6. Fibonaci";
+    int option;
+    cin >> option;
+    unique_ptr<AdvancedCalculator> e(new AdvancedCalculator(option));
     return 0;
 }

@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Users/Parth/Documents/GitHub/CPPCalculator/cmake-build-debug",
-		"source" : "D:/Users/Parth/Documents/GitHub/CPPCalculator"
+		"build" : "C:/Users/Parth/Documents/GitHub/CPPCalculator/cmake-build-debug",
+		"source" : "C:/Users/Parth/Documents/GitHub/CPPCalculator"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

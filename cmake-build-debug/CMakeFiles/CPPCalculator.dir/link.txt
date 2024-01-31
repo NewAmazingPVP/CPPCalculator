@@ -1,0 +1,3 @@
+"C:\Users\Parth\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\CPPCalculator.dir/objects.a
+C:\Users\Parth\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\ar.exe qc CMakeFiles\CPPCalculator.dir/objects.a @CMakeFiles\CPPCalculator.dir\objects1.rsp
+C:\Users\Parth\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\CPPCalculator.dir/objects.a -Wl,--no-whole-archive -o CPPCalculator.exe -Wl,--out-implib,libCPPCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CPPCalculator.dir\linkLibs.rsp
